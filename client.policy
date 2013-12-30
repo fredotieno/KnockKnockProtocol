@@ -1,0 +1,3 @@
+grant codeBase "file:/home/zeiss/Documents/codes/" {
+    permission java.security.AllPermission;
+};
